@@ -3,4 +3,13 @@
     <string name="banner_title">WELCOME</string>
     <string name="banner_subtitle">TO RELAX</string>
     <string name="banner_text">Take a breath, \n and ease your mind</string>
+    <string name="menu_title">EXPLORE \nMEDITATION</string>
+    <string name="menu_item1">Sleep</string>
+    <string name="menu_item1_text">A guided session to help you \nrelax and fall into a deep, \nrestful sleep.</string>
+    <string name="menu_item2">Relax</string>
+    <string name="menu_item2_text">Calming exercises to reduce \nstress and promote a sense\n of peace.</string>
+    <string name="menu_item3">Focus</string>
+    <string name="menu_item3_text">Techniques to sharpen \nconcentration and enhance \nmental clarity. </string>
+    <string name="menu_item4">Mind</string>
+    <string name="menu_item4_text">Mindfulness practices to \nstrengthen awareness and \nmental well-being.</string>
 </resources>
