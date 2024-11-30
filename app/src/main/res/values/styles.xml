@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="seekbar"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="android:thumb">@drawable/circle</item>
+        <item name="android:progressDrawable">@drawable/seekbar</item>
+        <item name="android:splitTrack">false</item>
+    </style>
+</resources>

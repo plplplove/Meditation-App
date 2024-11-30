@@ -40,5 +40,29 @@ public class Menu extends AppCompatActivity {
             }
         });
 
+        item2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Menu.this, PlayerRelax.class);
+                startActivity(intent);
+            }
+        });
+
+        item3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Menu.this, PlayerFocus.class);
+                startActivity(intent);
+            }
+        });
+
+        item4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Menu.this, PlayerMind.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

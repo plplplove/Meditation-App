@@ -12,4 +12,14 @@
     <string name="menu_item3_text">Techniques to sharpen \nconcentration and enhance \nmental clarity. </string>
     <string name="menu_item4">Mind</string>
     <string name="menu_item4_text">Mindfulness practices to \nstrengthen awareness and \nmental well-being.</string>
+    <string name="player_sleep_title">SLEEP</string>>
+    <string name="player_sleep_text">Let the calming sounds guide \nyou into a peaceful, restful sleep, helping to ease \n
+        your mind and body.</string>
+    <string name="player_relax_title">RELAX</string>
+    <string name="player_relax_text">Follow the soothing voice and sounds \nto release tension and bring a sense of relaxation \n
+        and balance to your day.</string>
+    <string name="player_focus_title">FOCUS</string>
+    <string name="player_focus_text">Focus your mind with gentle guidance, \nhelping to clear distractions and enhance your \nconcentration.</string>
+    <string name="player_mind_title">MIND</string>
+    <string name="player_mind_text">Engage in mindfulness exercises to cultivate \nawareness, helping to stay present and grounded \nin the moment.</string>
 </resources>
